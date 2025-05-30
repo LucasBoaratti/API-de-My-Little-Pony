@@ -1,3 +1,3 @@
 # Como usar a API
 
-Para utilizar a API, você deve baixar o arquivo e dar npm run dev. 
+Para utilizar a API, você precisa dar npm run dev no terminal. 
